@@ -26,7 +26,7 @@ This repository currently contains:
 
    2. Click the "+" icon to add a new entry. Set "Name" to `FBR_3D_MODELS`.
 
-   3. Set "Path" to the location of this repository, followed by `FBR_3D_MODELS` - for example, `/home/oliver/Documents/FBR/FBR25-Electronics/FBR_3D_MODELS`.
+   3. Set "Path" to the location of this repository, followed by `FBR_3D_MODELS` - for example, `/home/oliver/Documents/FBR/FBR26-Electronics/FBR_3D_MODELS`.
 
    4. Click OK.
 
